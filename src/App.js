@@ -1,7 +1,5 @@
 import React from 'react';
 import Todos from './components/Todos'
-import Todo from './components/Todo'
-import AddToDoForm from './components/AddToDoForm'
 
 function App() {
   return (
